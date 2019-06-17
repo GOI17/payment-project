@@ -1,4 +1,5 @@
 {
+    "name": "<name-for-your-project>",
     "builds": [
         {
             "src": "*.html",
