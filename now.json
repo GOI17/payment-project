@@ -1,9 +1,11 @@
 {
     "version": 2,
+    "name": "payment-project",
     "builds": [
-        {
-            "src": "package.json",
-            "use": "@now/static-build"
-        }
+      {
+        "src": "package.json",
+        "use": "@now/static-build",
+        "config": { "distDir": "public" }
+      }
     ]
-}
+  }
