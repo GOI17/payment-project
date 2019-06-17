@@ -1,5 +1,5 @@
 {
-    "name": "payment-project",
+    "name": "svelte-app",
     "builds": [
         {
             "src": "*.html",
